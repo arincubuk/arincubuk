@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @arincubuk
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Shopify App Development
+- 👀 I’m interested in Data Science, AI and Development
+- 🌱 I’m currently learning Data Science, AI and Development
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me arincubuk@gmai.com
+- 📫 How to reach me support@nextphase.app
 
 <!---
 arincubuk/arincubuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
